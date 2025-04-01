@@ -1,6 +1,6 @@
 streamlit==1.19.0
 torch==2.0.1
-opencv-python==4.7.0
+opencv-python==4.5.3.56
 ultralytics==8.0.0
 pandas==1.5.3
 Pillow==9.2.0
